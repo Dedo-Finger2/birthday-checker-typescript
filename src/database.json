@@ -1,0 +1,18 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "nome",
+      "birthdate": "2024-04-08",
+      "description": "adfasdf",
+      "special": false
+    },
+    {
+      "id": 2,
+      "name": "nome2",
+      "birthdate": "2024-04-08",
+      "description": "adfasdf",
+      "special": false
+    }
+  ]
+}
