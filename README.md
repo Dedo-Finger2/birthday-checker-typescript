@@ -4,7 +4,9 @@ Este projeto consiste em um sistema front-end destinado a permitir que os usuár
 
 ## 1 - Demo
 
-![Video demo](https://www.youtube.com/watch?v=z_oCRiElcow)
+https://www.youtube.com/watch?v=z_oCRiElcow
+
+<img src="https://raw.githubusercontent.com/Dedo-Finger2/birthday-checker-typescript/master/src/assets/responsividade-example.png?token=GHSAT0AAAAAACPYHAL5Q7M4TJ25QX2IZHKSZQVL3BA" />
 
 ## 2 - Banco de dados / Estrutura do JSON 
 
