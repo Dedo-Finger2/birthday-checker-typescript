@@ -7,6 +7,7 @@ import { RegularBirthdayList } from "./components/regular-birthday-list";
 
 import { Person } from "./interfaces/person";
 import { BirthdayRegisterMessage } from "./components/birthday-register-message";
+import { Footer } from "./components/footer";
 
 export function App() {
   const [data, setData] = useState<Person[]>([]);
@@ -53,9 +54,12 @@ export function App() {
     <div>
       <LoginSection />
       <Header />
-      <div className="flex flex-col gap-12 items-center justify-center">
-        <RegularBirthdayList data={data} todayDate={todayDate} />
-        <BirthdayRegisterMessage />
+      <div className="flex flex-col items-center justify-center mb-12">
+        <div className="flex flex-col gap-12 items-center justify-center">
+          <RegularBirthdayList data={data} todayDate={todayDate} />
+          <BirthdayRegisterMessage />
+        </div>
+        <Footer />
       </div>
     </div>
   );
