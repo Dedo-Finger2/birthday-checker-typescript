@@ -41,7 +41,8 @@ export function App() {
     const todayFormatted = today.toISOString().slice(0, 10); // yyyy-mm-dd
 
     const peopleToday = Data.people.filter(
-      (person) => person.birthdate === todayFormatted
+      (person) =>
+        person.birthdate === todayFormatted && person.special === false
     );
 
     setData(peopleToday);

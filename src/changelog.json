@@ -1,0 +1,14 @@
+{
+  "changelog": [
+    {
+      "date": "2024-04-08 - [Beta v0.1] - RELEASE 🎊",
+      "changes": [
+        "Visualização diária. [Adicionado a visualização diária das datas de aniversário das pessoas cadastradas no sistema.",
+        "Login de acesso para administradores. [Adicionado um botão de login para administradores.",
+        "Changelog de mudanças e adições. [Adicionado um botão de changelog para que os usuários possam livremente saber o que foi adicionado no ultimo update do sistema.",
+        "Responsividade para dispositivos móveis. [Configurado a responsividade possibilitando o uso do sistema em dispositivos móveis com telas menores.",
+        "Cadastro de novas datas de aniversário. [Adicionado um link de cadastro que leva até o Google Forms, deste modo os usuários podem solicitar a adição de sua data de aniversário no sistema."
+      ]
+    }
+  ]
+}
