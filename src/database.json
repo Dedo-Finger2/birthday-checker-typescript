@@ -6,27 +6,6 @@
       "birthdate": "2024-09-04",
       "description": "adfasdf",
       "special": false
-    },
-    {
-      "id": 2,
-      "name": "nome2",
-      "birthdate": "2024-09-04",
-      "description": "adfasdf",
-      "special": false
-    },
-    {
-      "id": 3,
-      "name": "nome3",
-      "birthdate": "2024-09-04",
-      "description": "adfasdf",
-      "special": true
-    },
-    {
-      "id": 4,
-      "name": "nome4",
-      "birthdate": "2024-09-04",
-      "description": "adfasdf",
-      "special": false
     }
   ]
 }
