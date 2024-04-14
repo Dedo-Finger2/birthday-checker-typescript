@@ -35,7 +35,7 @@ export function Footer() {
           href="mailto:antonioimportant@gmail.com"
         >
           <Mail />
-          Gmail
+          G-mail
         </a>
       </div>
     </footer>
