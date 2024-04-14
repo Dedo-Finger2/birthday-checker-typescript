@@ -2,9 +2,30 @@
   "people": [
     {
       "id": 1,
-      "name": "nome",
-      "birthdate": "2024-09-04",
-      "description": "adfasdf",
+      "name": "Justino",
+      "birthdate": "2024-14-04",
+      "description": "Irmão de Marcos Mauricio (Nininho)",
+      "special": false
+    },
+    {
+      "id": 2,
+      "name": "Maria José",
+      "birthdate": "2024-07-04",
+      "description": "Filha de Marcos Mauricio (Nininho)",
+      "special": false
+    },
+    {
+      "id": 3,
+      "name": "Zefa",
+      "birthdate": "2024-07-04",
+      "description": "Irmã de Marcos Mauricio (Nininho)",
+      "special": false
+    },
+    {
+      "id": 2,
+      "name": "Lurdes",
+      "birthdate": "2024-14-04",
+      "description": "Irmã de Marcos Mauricio (Nininho)",
       "special": false
     }
   ]
