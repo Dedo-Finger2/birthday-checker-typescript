@@ -3,28 +3,28 @@
     {
       "id": 1,
       "name": "Justino",
-      "birthdate": "2024-14-04",
+      "birthdate": "2024-04-14",
       "description": "Irmão de Marcos Mauricio (Nininho)",
       "special": false
     },
     {
       "id": 2,
       "name": "Maria José",
-      "birthdate": "2024-07-04",
+      "birthdate": "2024-04-07",
       "description": "Filha de Marcos Mauricio (Nininho)",
       "special": false
     },
     {
       "id": 3,
       "name": "Zefa",
-      "birthdate": "2024-07-04",
+      "birthdate": "2024-04-07",
       "description": "Irmã de Marcos Mauricio (Nininho)",
       "special": false
     },
     {
       "id": 2,
       "name": "Lurdes",
-      "birthdate": "2024-14-04",
+      "birthdate": "2024-04-14",
       "description": "Irmã de Marcos Mauricio (Nininho)",
       "special": false
     }
